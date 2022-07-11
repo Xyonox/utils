@@ -1,4 +1,4 @@
-package de.xyonox.xtool.utils;
+package org.exemple.utils;
 
 import org.bukkit.Material;
 import org.bukkit.inventory.ItemFlag;

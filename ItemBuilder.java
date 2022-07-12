@@ -27,11 +27,11 @@ public class ItemBuilder {
         return this;
     }
     public ItemBuilder setUnbreakable(boolean b){
-        itemMeta.setUnbreakable(s);
+        itemMeta.setUnbreakable(b);
         return this;
     }
     public ItemBuilder addItemFlags(ItemFlag... flag){
-        itemMeta.addItemFlags(s);
+        itemMeta.addItemFlags(flag);
         return this;
     }
 
